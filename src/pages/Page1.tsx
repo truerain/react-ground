@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 
 function Page1() {
   const [count, setCount] = useState(0)

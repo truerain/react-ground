@@ -1,4 +1,3 @@
-import React from 'react'
 import useMdiStore from '../stores/MdiStore'
 
 function Navi() {
